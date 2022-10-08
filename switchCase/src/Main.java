@@ -14,8 +14,8 @@ public class Main {
                 break;
             case 'C':
 
-                System.out.println("ORTA");
-                break;
+                System.out.println("ORTA");   //istersek bu kısımı kaldırıp c ve d kısmını tek okutabiliriz.
+                break; 
             case 'D':
 
                 System.out.println("KÖTÜ");
